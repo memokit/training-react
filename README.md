@@ -19,6 +19,8 @@
 2. การสร้าง Module ใช้งานเอง
 3. การ Publish Module ผ่าน NPM
 
+Ref. https://teerasej.github.io/node-handbook/?fbclid=IwAR0JUfDmrrNdxr0klraWPTcW8TzgMa_22Hzl4R1Et7Qc59V5MXHEr64I1O0
+
 ## 25 ก.ค. 2019
 
 ### First Repository
@@ -33,3 +35,5 @@
 1. วิธีการสร้าง Branch
 2. วิธีการสลับ Branch (Checkout Branch)
 3. วิธีการรวม Branch (Merge Branch)
+
+Ref. https://teerasej.github.io/git-handbook/?fbclid=IwAR2oa2Dap5gAe68eyvKvICY5AMLratZVjpzIw3liEJhlH0HbAc6FCML0iog
