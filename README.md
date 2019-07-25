@@ -52,4 +52,8 @@ const calculator = require('calculator-kit')
 
 ใส่ลิงก์ [ที่นี่](https://www.google.com)
 
+ใส่รูป
+
+![589204](https://user-images.githubusercontent.com/3199549/61846507-87211180-aed1-11e9-9b35-9def23d670f0.jpg)
+
 [Ref.](https://teerasej.github.io/git-handbook/?fbclid=IwAR2oa2Dap5gAe68eyvKvICY5AMLratZVjpzIw3liEJhlH0HbAc6FCML0iog) 
