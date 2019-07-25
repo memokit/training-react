@@ -20,7 +20,7 @@
 2. การสร้าง Module ใช้งานเอง
 3. การ Publish Module ผ่าน NPM
 
-Ref. https://teerasej.github.io/node-handbook/?fbclid=IwAR0JUfDmrrNdxr0klraWPTcW8TzgMa_22Hzl4R1Et7Qc59V5MXHEr64I1O0
+[Ref.](https://teerasej.github.io/node-handbook/?fbclid=IwAR0JUfDmrrNdxr0klraWPTcW8TzgMa_22Hzl4R1Et7Qc59V5MXHEr64I1O0) 
 
 ## 25 ก.ค. 2019
 ### First Repository
@@ -52,4 +52,4 @@ const calculator = require('calculator-kit')
 
 ใส่ลิงก์ [ที่นี่](https://www.google.com)
 
-Ref. https://teerasej.github.io/git-handbook/?fbclid=IwAR2oa2Dap5gAe68eyvKvICY5AMLratZVjpzIw3liEJhlH0HbAc6FCML0iog
+[Ref.](https://teerasej.github.io/git-handbook/?fbclid=IwAR2oa2Dap5gAe68eyvKvICY5AMLratZVjpzIw3liEJhlH0HbAc6FCML0iog) 
