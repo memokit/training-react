@@ -50,4 +50,6 @@ const calculator = require('calculator-kit')
 
 ใส่ inline code `myFunc()`
 
+ใส่ลิงก์ [ที่นี่](https://www.google.com)
+
 Ref. https://teerasej.github.io/git-handbook/?fbclid=IwAR2oa2Dap5gAe68eyvKvICY5AMLratZVjpzIw3liEJhlH0HbAc6FCML0iog
