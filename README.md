@@ -2,34 +2,34 @@
 
 ## 24 ก.ค. 2019
 ### ควบคุมและใช้งาน Node CLI
-1. [ติดตั้ง Node Runtime]
-2. [การเรียกใช้ Node CLI]
-3. [JS ES6 - ตัวแปร และค่าคงที่ (Variable & Constant)]
-4. [JS ES6 - function]
+1. ติดตั้ง Node Runtime
+2. การเรียกใช้ Node CLI
+3. JS ES6 - ตัวแปร และค่าคงที่ (Variable & Constant)
+4. JS ES6 - function
 
 ### การใช้งาน Module 
 
-1. [การเรียกใช้ Module]
-2. [การติดตั้ง Module ด้วย NPM (Node Package Manager)]
-3. [การเรียกใช้ Module ที่ติดตั้งในโปรเจค]
+1. การเรียกใช้ Module
+2. การติดตั้ง Module ด้วย NPM (Node Package Manager)
+3. การเรียกใช้ Module ที่ติดตั้งในโปรเจค
 
 ### การสร้าง Module 
 
-1. [การเขียน JavaScript เพื่อนำไปใช้งานนอก module]
-2. [การสร้าง Module ใช้งานเอง]
-3. [การ Publish Module ผ่าน NPM]
+1. การเขียน JavaScript เพื่อนำไปใช้งานนอก module
+2. การสร้าง Module ใช้งานเอง
+3. การ Publish Module ผ่าน NPM
 
 ## 25 ก.ค. 2019
 
 ### First Repository
 
-1. [สร้าง local git repository]
-2. [การ commit การเปลี่ยนแปลงของ code ด้วย Visual Studio Code]
-3. [สร้าง remote git repository]
-4. [กำหนด remote git url ให้กับ local git repository]
+1. สร้าง local git repository
+2. การ commit การเปลี่ยนแปลงของ code ด้วย Visual Studio Code
+3. สร้าง remote git repository
+4. กำหนด remote git url ให้กับ local git repository
 
 ### Manage Branches
 
-1. [วิธีการสร้าง Branch]
-2. [วิธีการสลับ Branch (Checkout Branch)]
-3. [วิธีการรวม Branch (Merge Branch)]
+1. วิธีการสร้าง Branch
+2. วิธีการสลับ Branch (Checkout Branch)
+3. วิธีการรวม Branch (Merge Branch)
