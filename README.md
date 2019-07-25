@@ -29,7 +29,7 @@ Ref. https://teerasej.github.io/node-handbook/?fbclid=IwAR0JUfDmrrNdxr0klraWPTcW
 2. การ commit การเปลี่ยนแปลงของ code ด้วย Visual Studio Code
 3. สร้าง remote git repository
 4. กำหนด remote git url ให้กับ local git repository
-5. การเขีนร readme.md
+5. การเขียน readme.md
 
 ### Manage Branches
 
