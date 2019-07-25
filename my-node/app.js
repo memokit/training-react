@@ -1,5 +1,9 @@
 const authorize = require('./module/login')
 const authorizeObj = require('./module/authorizs')
+const User = require('./module/user');
+
+let user = new User('indy', 'luffy');
+user.confirmPackage('A001');
 
 console.log(authorize);
 
