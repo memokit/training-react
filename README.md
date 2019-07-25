@@ -1,5 +1,5 @@
 # Training React
-## with Ajarn Pon
+## With Ajarn Pon
 
 ## 24 ก.ค. 2019
 ### ควบคุมและใช้งาน Node CLI
@@ -23,18 +23,26 @@
 Ref. https://teerasej.github.io/node-handbook/?fbclid=IwAR0JUfDmrrNdxr0klraWPTcW8TzgMa_22Hzl4R1Et7Qc59V5MXHEr64I1O0
 
 ## 25 ก.ค. 2019
-
 ### First Repository
 
 1. สร้าง local git repository
 2. การ commit การเปลี่ยนแปลงของ code ด้วย Visual Studio Code
 3. สร้าง remote git repository
 4. กำหนด remote git url ให้กับ local git repository
+5. การเขีนร readme.md
 
 ### Manage Branches
 
 1. วิธีการสร้าง Branch
 2. วิธีการสลับ Branch (Checkout Branch)
 3. วิธีการรวม Branch (Merge Branch)
+
+
+### Exam readme
+# Header
+
+```js
+const calculator = require('calculator-kit')
+```
 
 Ref. https://teerasej.github.io/git-handbook/?fbclid=IwAR2oa2Dap5gAe68eyvKvICY5AMLratZVjpzIw3liEJhlH0HbAc6FCML0iog
